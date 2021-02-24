@@ -25,7 +25,7 @@
     "@nestjs/core": "^6.10.14",
     "@nestjs/mongoose": "^7.0.1",
     "@nestjs/platform-express": "^6.10.14",
-    "@sentry/node": "5.15.5",
+    "@sentry/node": "5.30.0",
     "@types/cheerio": "^0.22.18",
     "@types/got": "^9.6.11",
     "axios": "^0.19.2",
