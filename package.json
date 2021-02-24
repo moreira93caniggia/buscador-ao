@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^6.10.14",
     "@nestjs/core": "^6.10.14",
-    "@nestjs/mongoose": "^7.0.1",
+    "@nestjs/mongoose": "^7.2.2",
     "@nestjs/platform-express": "^6.10.14",
     "@sentry/node": "5.15.5",
     "@types/cheerio": "^0.22.18",
