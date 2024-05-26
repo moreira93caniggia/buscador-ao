@@ -35,7 +35,7 @@
     "got": "^11.1.4",
     "mongoose": "^5.9.14",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.3.1",
     "rxjs": "^6.5.4"
   },
   "devDependencies": {
