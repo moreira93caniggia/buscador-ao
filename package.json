@@ -21,14 +21,14 @@
     "seed": "ts-node -r tsconfig-paths/register src/seed.ts"
   },
   "dependencies": {
-    "@nestjs/common": "^6.10.14",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^6.10.14",
     "@nestjs/mongoose": "^7.0.1",
     "@nestjs/platform-express": "^6.10.14",
     "@sentry/node": "5.15.5",
     "@types/cheerio": "^0.22.18",
     "@types/got": "^9.6.11",
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "cheerio": "^1.0.0-rc.3",
     "class-validator": "^0.12.2",
     "dotenv": "^8.2.0",
